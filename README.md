@@ -4,8 +4,13 @@
 
 In this analysis we Perform ETL on Amazon Product Reviews and Determine Bias of Vine Reviews. 
 
-US REVIEWS DATASET:
-https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Wireless_v1_00.tsv.gz
+
+## Resources
+
+Data Source: Amazon Review datasets, https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Wireless_v1_00.tsv.gz
+
+Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
+
 
 ## Results
 
